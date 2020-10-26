@@ -1,0 +1,12 @@
+{
+    "name": "eoikonomou-blogfolio",
+    "version": "0.1.0",
+    "description": "eoikonomou personal blog/portfolio",
+    "main": "index.js",
+    "private": true,
+    "scripts": {
+      "start": "node index.js"
+    },
+    "dependencies": {
+    }
+  }
