@@ -2,3 +2,5 @@ version: '3.5'
 services:
   blogfolio:
     build: ./frontend/
+    ports:
+      - "3000:3000"
